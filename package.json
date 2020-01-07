@@ -1,0 +1,35 @@
+{
+  "name": "aframe-arjs-delayed-marker",
+  "version": "1.0.0",
+  "description": "An Aframe compontent to perform delayed \"un-rendering\" when arjs marker is lost",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikloaiza/aframe-arjs-delayed-marker.git"
+  },
+  "keywords": [
+    "aframe",
+    "arjs",
+    "component",
+    "3d",
+    "cardboard",
+    "components",
+    "aframe-component",
+    "three",
+    "vr",
+    "webr",
+    "ar",
+    "aframe-ar",
+    "delayed",
+    "rendering"
+  ],
+  "author": "Erik Fernando Loaiza Patiño",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikloaiza/aframe-arjs-delayed-marker/issues"
+  },
+  "homepage": "https://github.com/erikloaiza/aframe-arjs-delayed-marker#readme"
+}
